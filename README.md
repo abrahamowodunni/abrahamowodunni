@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamowodunni&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamowodunni" /> </p>
 
-- 🔭 I’m currently working on [MLOps](https://github.com/abrahamowodunni/machinelearning_implementation)
+- 🔭 I’m currently working on [MLOps](https://github.com/abrahamowodunni/fraud_detection)
 
 - 🌱 I’m currently learning **MLOps**
 
