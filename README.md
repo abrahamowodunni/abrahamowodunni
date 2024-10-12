@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamowodunni&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamowodunni" /> </p>
 
-- 🔭 I’m currently working on [Generative AI](https://github.com/abrahamowodunni/genAI-project)
+- 🔭 I’m currently working on [Transformer from scratch](https://github.com/abrahamowodunni/NEPA_Transformer)
 
 - 🌱 I’m currently learning **MLOps**
 
